@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.1",
+    "jkanime-v2": "^1.0.1",
+    "puppeteer": "^23.8.0"
+  }
+}
